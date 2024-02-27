@@ -6,4 +6,4 @@ function Live() {
   )
 }
 
-export default Live
+export default Live;

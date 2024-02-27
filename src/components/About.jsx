@@ -1,7 +1,12 @@
 
 function About() {
   return (
-    <h1>This page will conatain about the company</h1>
+    <div className="container">
+            <div className="row">
+            <h1>This page will conatain about the company</h1>
+            </div>
+        </div>
+    
   )
 }
 
